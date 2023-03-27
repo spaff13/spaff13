@@ -15,7 +15,8 @@ https://github.com/dev2820/eye-guardian
 남성 뷰티 쇼츠 및 판매 플랫폼 웹서비스<br>
 https://github.com/dev2820/MMM
 
-
+여러 사람이 음성채팅과 함께 즐기는 그림 퀴즈 게임
+https://github.com/boostcampwm-2022/web15-Teleparty/tree/dev/.github
 
 
 
