@@ -4,6 +4,9 @@
 
 ## 프로젝트
 
+여러 사람이 음성채팅과 함께 즐기는 그림 퀴즈 게임<br>
+https://github.com/boostcampwm-2022/web15-Teleparty/tree/dev/.github
+
 "뭘 입을지 고민하는 시간을 줄여줄 수 있을까?"라는 주제로 출발하여 제작하게 된 기온별 의상 추천 앱<br>
 https://github.com/team-naming-1-hour/sweather-app
 
@@ -14,9 +17,6 @@ https://github.com/dev2820/eye-guardian
 
 남성 뷰티 쇼츠 및 판매 플랫폼 웹서비스<br>
 https://github.com/dev2820/MMM
-
-여러 사람이 음성채팅과 함께 즐기는 그림 퀴즈 게임<br>
-https://github.com/boostcampwm-2022/web15-Teleparty/tree/dev/.github
 
 
 
